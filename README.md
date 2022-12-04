@@ -25,13 +25,12 @@ Travail à faire :
 5. Faire une configuration dynamique des routes de la gateway
 
   5-1 Customers 
+  
 ![Screenshot_18](https://user-images.githubusercontent.com/84717947/205501617-a13cb18f-7a93-4676-9d09-6de0fdcd052a.png)
-
- 
 
  5-2 Produits
 
-![image](https://user-images.githubusercontent.com/84717947/202050249-3e0f9b2c-387c-44b0-8e07-73151297c458.png)
+![Screenshot_19](https://user-images.githubusercontent.com/84717947/205501729-aa390489-c5d4-43ff-92c5-1e6af3dc53d3.png)
 
  5-3 Afficher customers par ID
 
@@ -45,7 +44,7 @@ Travail à faire :
 
 6.1  Recuperation des facteurs par id 
 
-![image](https://user-images.githubusercontent.com/84717947/202050426-5b5c0fb7-6d31-4ffb-b0c9-0b3d9bf0101b.png)
+![Screenshot_20](https://user-images.githubusercontent.com/84717947/205501806-a31fd1f6-7cca-4928-9a67-33544095898c.png)
  
  6.2	Récupérer la factures avec le détails de produits : 
  
