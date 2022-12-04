@@ -34,7 +34,7 @@ Travail à faire :
 
  5-4 Produits par ID
 
-     ![image](https://user-images.githubusercontent.com/84717947/202050329-3a574aea-cb06-40de-b0cc-874cd9bbcfe2.png)
+![image](https://user-images.githubusercontent.com/84717947/202050329-3a574aea-cb06-40de-b0cc-874cd9bbcfe2.png)
 
 6. Créer le service de facturation Billing-Service en utilisant Open Feign
 
@@ -42,21 +42,21 @@ Travail à faire :
 
     7.1-Listes des produits:
 
-     ![Screenshot_1](https://user-images.githubusercontent.com/84717947/202864336-d3ed6e4c-b3f6-4e9a-8ee7-2ab5935bcc75.png)
+![Screenshot_1](https://user-images.githubusercontent.com/84717947/202864336-d3ed6e4c-b3f6-4e9a-8ee7-2ab5935bcc75.png)
      
      7.2- Listes des customers:
 
-    ![Screenshot_2](https://user-images.githubusercontent.com/84717947/202864337-711f42f7-7dc0-4d90-948f-cd5d09b7404f.png)
+![Screenshot_2](https://user-images.githubusercontent.com/84717947/202864337-711f42f7-7dc0-4d90-948f-cd5d09b7404f.png)
 
      7.3-Les factures de chaque customer:
 
-    ![Screenshot_3](https://user-images.githubusercontent.com/84717947/202864351-70f83694-6e47-41b0-90f5-5588603b58d4.png)
+![Screenshot_3](https://user-images.githubusercontent.com/84717947/202864351-70f83694-6e47-41b0-90f5-5588603b58d4.png)
 
 8. Déployer le serveur keycloak :
 
      - Créer un Realm!
      
-      [Screenshot_3](https://user-images.githubusercontent.com/84717947/205497306-958af207-a2a5-43ba-b6be-c97538ccb1cf.png)
+      ![Screenshot_3](https://user-images.githubusercontent.com/84717947/205497306-958af207-a2a5-43ba-b6be-c97538ccb1cf.png)
      
      - Créer un client à sécuriser
      
