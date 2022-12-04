@@ -6,7 +6,11 @@ Travail à faire :
 
 1.Créer le micro-service customer-service qui permet de gérer les client
 
+![Screenshot_16](https://user-images.githubusercontent.com/84717947/205501414-7cd1d129-c61d-422a-832e-1139d49426f9.png)
+
 2.Créer le micro-service inventory-service qui permet de gérer les produits
+
+![Screenshot_17](https://user-images.githubusercontent.com/84717947/205501504-2e18b1a2-1379-421a-91b1-5f86835c17f2.png)
 
 3. Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
 
