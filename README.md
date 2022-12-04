@@ -90,7 +90,10 @@ Travail à faire :
 
      ![Screenshot_9](https://user-images.githubusercontent.com/84717947/205498271-0836875d-db47-4108-87a2-a9467dfbb8fc.png)
 
-     - Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token 
+     - Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token :
+     
+     
+     
      
 9. Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
 
