@@ -10,27 +10,27 @@ Travail à faire :
 
 3. Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
 
-      ![image](https://user-images.githubusercontent.com/84717947/202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6.png)
+![image](https://user-images.githubusercontent.com/84717947/202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6.png)
 
-      ![image](https://user-images.githubusercontent.com/84717947/202050107-dd795b5c-62c7-4894-81bc-06f2b4033252.png)
+![image](https://user-images.githubusercontent.com/84717947/202050107-dd795b5c-62c7-4894-81bc-06f2b4033252.png)
 
 4. Créer l'annuaire Eureka Discrovery Service
 
-     ![202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6](https://user-images.githubusercontent.com/84717947/205496927-46fa6a34-1654-4ae1-a7ea-2659a7aa2d41.png)
+![202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6](https://user-images.githubusercontent.com/84717947/205496927-46fa6a34-1654-4ae1-a7ea-2659a7aa2d41.png)
 
 5. Faire une configuration dynamique des routes de la gateway
 
   5-1 Customers 
 
-      ![image](https://user-images.githubusercontent.com/84717947/202050201-b95ba351-37ce-4e48-994b-f64635f4dec5.png)
+ ![image](https://user-images.githubusercontent.com/84717947/202050201-b95ba351-37ce-4e48-994b-f64635f4dec5.png)
 
  5-2 Produits
 
-     ![image](https://user-images.githubusercontent.com/84717947/202050249-3e0f9b2c-387c-44b0-8e07-73151297c458.png)
+![image](https://user-images.githubusercontent.com/84717947/202050249-3e0f9b2c-387c-44b0-8e07-73151297c458.png)
 
  5-3 Afficher customers par ID
 
-     ![image](https://user-images.githubusercontent.com/84717947/202050295-559e544e-4da1-405d-a020-1be5e1828338.png)
+![image](https://user-images.githubusercontent.com/84717947/202050295-559e544e-4da1-405d-a020-1be5e1828338.png)
 
  5-4 Produits par ID
 
