@@ -25,8 +25,9 @@ Travail à faire :
 5. Faire une configuration dynamique des routes de la gateway
 
   5-1 Customers 
+![Screenshot_18](https://user-images.githubusercontent.com/84717947/205501617-a13cb18f-7a93-4676-9d09-6de0fdcd052a.png)
 
- ![image](https://user-images.githubusercontent.com/84717947/202050201-b95ba351-37ce-4e48-994b-f64635f4dec5.png)
+ 
 
  5-2 Produits
 
