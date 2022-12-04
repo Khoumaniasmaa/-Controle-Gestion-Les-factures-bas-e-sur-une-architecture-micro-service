@@ -10,51 +10,53 @@ Travail à faire :
 
 3. Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
 
-![image](https://user-images.githubusercontent.com/84717947/202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6.png)
+      ![image](https://user-images.githubusercontent.com/84717947/202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6.png)
 
-![image](https://user-images.githubusercontent.com/84717947/202050107-dd795b5c-62c7-4894-81bc-06f2b4033252.png)
+      ![image](https://user-images.githubusercontent.com/84717947/202050107-dd795b5c-62c7-4894-81bc-06f2b4033252.png)
 
 4. Créer l'annuaire Eureka Discrovery Service
 
-![202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6](https://user-images.githubusercontent.com/84717947/205496927-46fa6a34-1654-4ae1-a7ea-2659a7aa2d41.png)
+     ![202049977-16eaff6a-4e6c-4bec-8aee-73f671d516b6](https://user-images.githubusercontent.com/84717947/205496927-46fa6a34-1654-4ae1-a7ea-2659a7aa2d41.png)
 
 5. Faire une configuration dynamique des routes de la gateway
 
-5-1 Customers 
+  5-1 Customers 
 
-![image](https://user-images.githubusercontent.com/84717947/202050201-b95ba351-37ce-4e48-994b-f64635f4dec5.png)
+      ![image](https://user-images.githubusercontent.com/84717947/202050201-b95ba351-37ce-4e48-994b-f64635f4dec5.png)
 
-5-2 Produits
+ 5-2 Produits
 
-![image](https://user-images.githubusercontent.com/84717947/202050249-3e0f9b2c-387c-44b0-8e07-73151297c458.png)
+     ![image](https://user-images.githubusercontent.com/84717947/202050249-3e0f9b2c-387c-44b0-8e07-73151297c458.png)
 
-5-3Afficher customers par ID
+ 5-3 Afficher customers par ID
 
-![image](https://user-images.githubusercontent.com/84717947/202050295-559e544e-4da1-405d-a020-1be5e1828338.png)
+     ![image](https://user-images.githubusercontent.com/84717947/202050295-559e544e-4da1-405d-a020-1be5e1828338.png)
 
-6-4Produits par ID
+ 5-4 Produits par ID
 
-![image](https://user-images.githubusercontent.com/84717947/202050329-3a574aea-cb06-40de-b0cc-874cd9bbcfe2.png)
+     ![image](https://user-images.githubusercontent.com/84717947/202050329-3a574aea-cb06-40de-b0cc-874cd9bbcfe2.png)
 
 6. Créer le service de facturation Billing-Service en utilisant Open Feign
 
-7. Créer un client Web Angular (Clients, Produits, Factures)
+7. Créer un client Web Angular (Clients, Produits, Factures):
+
     7.1-Listes des produits:
 
-![Screenshot_1](https://user-images.githubusercontent.com/84717947/202864336-d3ed6e4c-b3f6-4e9a-8ee7-2ab5935bcc75.png)
+     ![Screenshot_1](https://user-images.githubusercontent.com/84717947/202864336-d3ed6e4c-b3f6-4e9a-8ee7-2ab5935bcc75.png)
+     
      7.2- Listes des customers:
 
-![Screenshot_2](https://user-images.githubusercontent.com/84717947/202864337-711f42f7-7dc0-4d90-948f-cd5d09b7404f.png)
+    ![Screenshot_2](https://user-images.githubusercontent.com/84717947/202864337-711f42f7-7dc0-4d90-948f-cd5d09b7404f.png)
 
      7.3-Les factures de chaque customer:
 
-![Screenshot_3](https://user-images.githubusercontent.com/84717947/202864351-70f83694-6e47-41b0-90f5-5588603b58d4.png)
+    ![Screenshot_3](https://user-images.githubusercontent.com/84717947/202864351-70f83694-6e47-41b0-90f5-5588603b58d4.png)
 
 8. Déployer le serveur keycloak :
 
      - Créer un Realm!
      
-     [Screenshot_3](https://user-images.githubusercontent.com/84717947/205497306-958af207-a2a5-43ba-b6be-c97538ccb1cf.png)
+      [Screenshot_3](https://user-images.githubusercontent.com/84717947/205497306-958af207-a2a5-43ba-b6be-c97538ccb1cf.png)
      
      - Créer un client à sécuriser
      
