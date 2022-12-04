@@ -38,6 +38,14 @@ Travail à faire :
 
 6. Créer le service de facturation Billing-Service en utilisant Open Feign
 
+6.1  Recuperation des facteurs par id 
+
+![image](https://user-images.githubusercontent.com/84717947/202050426-5b5c0fb7-6d31-4ffb-b0c9-0b3d9bf0101b.png)
+ 
+ 6.2	Récupérer la factures avec le détails de produits : 
+ 
+![image](https://user-images.githubusercontent.com/84717947/202050489-66d7b7f4-48db-4eca-b428-3c02f8e9b05f.png)
+
 7. Créer un client Web Angular (Clients, Produits, Factures):
 
     7.1-Listes des produits:
