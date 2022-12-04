@@ -1,10 +1,10 @@
 # -Controle-Gestion-Les-factures-bas-e-sur-une-architecture-micro-service
 Objectif :  
+
 Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
 Travail à faire :
+
 1.Créer le micro-service customer-service qui permet de gérer les client
-
-
 
 2.Créer le micro-service inventory-service qui permet de gérer les produits
 
