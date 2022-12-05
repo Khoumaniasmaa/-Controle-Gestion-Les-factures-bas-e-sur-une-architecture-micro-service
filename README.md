@@ -19,8 +19,7 @@
 ![image](https://user-images.githubusercontent.com/84717947/202050107-dd795b5c-62c7-4894-81bc-06f2b4033252.png)
 
 ### 4. Créer l'annuaire Eureka Discrovery Service
-
-![image](https://user-images.githubusercontent.com/84717947/202050145-bdb5aeb7-17ea-4591-84fd-6da13e0fbfed.png)
+![Screenshot_1](https://user-images.githubusercontent.com/84717947/205746816-97a17e53-b155-44cd-a88b-836b225313d4.png)
 
 ### 5. Faire une configuration dynamique des routes de la gateway
 
